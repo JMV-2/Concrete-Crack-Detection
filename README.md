@@ -1,5 +1,6 @@
 # Concrete-Crack-Detection
 This repository contains the Concrete Crack Detection code, By Colby Degan and Jose Villegas
+Data can be accessed [here](https://www.kaggle.com/datasets/oluwaseunad/concrete-and-pavement-crack-images)
 
 ## Background and Motivation
 When it comes to classification problems in Data Science and Machine Learning, the utility of images can often be very useful to do so. For this particular project, a large directory of images was provided, within the directory there were two sub-directories split into categories of Cracked, and Non-cracked, then within those directories there were nested directories that consisted of the type, or structure of concrete, which were of the following: pavement, deck, and wall. Our overall goal was to consider two machine learning processes/algorithms that we learned in class, and apply those models to these different kinds of images to make a model that can optimally classify whether or not images are cracked. After these models are created, these models will be optimized utilizing some form of cross validation to make improvements.
